@@ -23,6 +23,11 @@ To remove it: Windows Settings > Apps > Terps Clipper > Uninstall.
 When a new version is out, the app downloads it quietly and shows **Restart to update**.
 Settings and add-ons are kept.
 
+## Questions
+
+Stuck, or have a question? **[Join the Terp Discord](https://discord.gg/h6BKrNePeT)** and ask
+there.
+
 ## Licences
 
 The app includes FFmpeg as a separate program, under the GNU GPL v3. Its licence, build
