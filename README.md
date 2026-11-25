@@ -9,7 +9,8 @@ This page only hosts the downloads. The app checks it for updates by itself.
 
 ## Install
 
-1. Download **TerpsClipper-Setup-….exe** from the [latest release](../../releases/latest).
+1. Download **[TerpsClipper-Setup.exe](../../releases/latest/download/TerpsClipper-Setup.exe)**
+   (the [latest release](../../releases/latest)).
 2. Open it, tick the desktop shortcut if you want one, press **Install**, then **Finish**.
    No admin password is needed.
 3. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**
