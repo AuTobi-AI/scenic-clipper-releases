@@ -1,4 +1,4 @@
-# Scenic Clipper
+# Terps Clipper
 
 A Windows app that turns long recordings into the best short vertical clips for TikTok,
 YouTube Shorts and Instagram Reels, with a montage cut to music. Made for game build
@@ -9,14 +9,14 @@ This page only hosts the downloads. The app checks it for updates by itself.
 
 ## Install
 
-1. Download **ScenicClipper-Setup-….exe** from the [latest release](../../releases/latest).
+1. Download **TerpsClipper-Setup-….exe** from the [latest release](../../releases/latest).
 2. Open it, tick the desktop shortcut if you want one, press **Install**, then **Finish**.
    No admin password is needed.
 3. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**
    (the app isn't code-signed).
 4. When the app opens, say **Yes** to installing the add-ons (about 680 MB, once).
 
-To remove it: Windows Settings > Apps > Scenic Clipper > Uninstall.
+To remove it: Windows Settings > Apps > Terps Clipper > Uninstall.
 
 ## Updates
 
